@@ -377,8 +377,6 @@ github.com/bugaolengdeyuxiaoer/erda v0.0.0-20220329064632-1abdceeeeb03/go.mod h1
 github.com/bugaolengdeyuxiaoer/erda v0.0.0-20220330031702-6f8c3a3d790f/go.mod h1:5/gnMXgHaVy3M3SRIIbPEXvUIGz5b0a5bpyDS2shW+I=
 github.com/bugaolengdeyuxiaoer/erda v0.0.0-20220330102109-d5773443eaa2 h1:JoSDrBYMnjWt4fXewWGqF8SzWMpEdzXsghclxxoa/co=
 github.com/bugaolengdeyuxiaoer/erda v0.0.0-20220330102109-d5773443eaa2/go.mod h1:5/gnMXgHaVy3M3SRIIbPEXvUIGz5b0a5bpyDS2shW+I=
-github.com/bugaolengdeyuxiaoer/erda v0.0.0-20220401111639-fe3e36d6bf82 h1:qVnoQDBQ+PJblrFzRH0P8GKXJuypKYTX7ivDWUcoCPo=
-github.com/bugaolengdeyuxiaoer/erda v0.0.0-20220401111639-fe3e36d6bf82/go.mod h1:9tRZ625Zb8sWn3jq6V5e8cmFFF6Pv1zktJVCU8zhCYw=
 github.com/bugaolengdeyuxiaoer/go-ansiterm v0.0.0-20211110022506-7e621b9b6908 h1:sHzGoVoBvr4lkQzrmInUPimwEqcn8G7eaZvBcdaZeZE=
 github.com/bugaolengdeyuxiaoer/go-ansiterm v0.0.0-20211110022506-7e621b9b6908/go.mod h1:zoCZuwF7bNiQYEVqIzNMPsWunfW6fAYiD606Td3x88Y=
 github.com/buger/jsonparser v1.1.1 h1:2PnMjfWD7wBILjqQbt530v576A/cAbQvEW9gGIpYMUs=

@@ -223,11 +223,11 @@ func (c *Conf) retrieveMySQLParameters() error {
 		c.mysqlParameters.Username = actionMySQLSettings.Username
 		c.mysqlParameters.Password = actionMySQLSettings.Password
 		c.mysqlParameters.Database = actionMySQLSettings.Database
-		c.mysqlParameters.TLSConfig = &migrator.TLSConfig{
-			//	DBClientKey:  actionMySQLSettings.KeyPath,
-			DBCaCert: actionMySQLSettings.CAPATH,
-			//	DBClientCert: actionMySQLSettings.CertPath,
-		}
+		//c.mysqlParameters.TLSConfig = &migrator.TLSConfig{
+		//	DBClientKey:  actionMySQLSettings.KeyPath,
+		//	DBCaCert:     actionMySQLSettings.CAPATH,
+		//	DBClientCert: actionMySQLSettings.CertPath,
+		//}
 		c.sandboxParameters.TLS = actionMySQLSettings.IsTLS
 		return nil
 	}
